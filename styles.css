@@ -3,5 +3,6 @@ header nav {
 }
 
 header nav ul {
-    display: inline-block;
+    display: flex;
+    justify-content: space-around;
 }
